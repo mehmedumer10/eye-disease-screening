@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# trained weights and data are not tracked
+models/*.h5
+*.keras
+dataset/
+.env
